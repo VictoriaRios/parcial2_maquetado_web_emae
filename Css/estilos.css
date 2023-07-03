@@ -203,9 +203,15 @@ img{
 }
 .form-control {
     font-size: 16px;
+    border: #063940 solid 2px;
+    border-radius: 5px;
+    padding: 5px;
 }
 label{
     margin-bottom: 10px;
+}
+select{
+    padding: 10px;
 }
 .op hr{
     width: 30vw;
